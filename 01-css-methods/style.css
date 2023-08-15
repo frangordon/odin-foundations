@@ -1,0 +1,40 @@
+/* the # is a ID selector. 
+The major difference between class selectors and ID selectors is
+that an element can only have one ID
+
+in HTML and ID would look like <h1 id='header'>Odin Recipes</h1>
+in CSS that's linked with #header {}
+
+whereas a CLASS would look like <div class="subsection-header">Latest Posts</div>
+in CSS that looks like .subsection-preview {}
+*/
+
+/* __________________________________________________
+                    01-css-methods
+*/
+
+.style-me {
+    background-color:red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
+
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+button {
+    background-color: orange;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
